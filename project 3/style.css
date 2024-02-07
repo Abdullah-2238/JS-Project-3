@@ -1,3 +1,7 @@
 .container {
   margin-top: 350px;
 }
+#counterlabel{
+  margin-bottom: 15px;
+  font-weight: 700;
+}
