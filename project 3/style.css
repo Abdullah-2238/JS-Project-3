@@ -1,5 +1,7 @@
 .container {
   margin-top: 350px;
+  border: 3px solid white;
+  background-color: #8D99AE;
 }
 #counterlabel{
   margin-bottom: 15px;
